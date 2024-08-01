@@ -67,22 +67,6 @@ This is a simple full-stack task management application that allows users to cre
 
    The backend API should now be running at `http://localhost:4000`.
 
-### Testing
-
-1. **Navigate to the Backend Directory**
-
-   ```bash
-   cd backend
-   ```
-
-2. **Run Tests**
-
-   ```bash
-   npm test
-   ```
-
-   This will execute the unit tests for the API.
-
 ## Additional Documentation
 
 - **Frontend Components:**
@@ -98,7 +82,7 @@ This is a simple full-stack task management application that allows users to cre
 
 - **Assumptions:**
   - MongoDB is running locally or a valid connection string is provided.
-  - The backend API and frontend application are running on the default ports (`5000` for backend and `3000` for frontend).
+  - The backend API and frontend application are running on the default ports (`4000` for backend and `3000` for frontend).
 
 ## Notes
 
